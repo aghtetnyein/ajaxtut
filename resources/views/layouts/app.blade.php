@@ -32,6 +32,11 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
+
+                  <!--  <span style="margin: 0 auto; text-decoration: none;" class="h5">
+                      <a href="{{ url('/profile/') }}">PROFILE</a>
+                    </span> -->
+
                     <ul class="navbar-nav mr-auto">
 
                     </ul>
